@@ -1,0 +1,4 @@
+name: Pearls HCF
+version: '1.0-SNAPSHOT'
+main: org.zombiemace.pearlsHCF.PearlsHCF
+api-version: '1.21'
